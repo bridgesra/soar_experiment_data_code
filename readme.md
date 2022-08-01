@@ -8,10 +8,10 @@ The experiment, data, and our results are found in our paper. Please cite our pa
 
 
 
-## `anonymized_obfuscated_data.csv`
+## file: `anonymized_obfuscated_data.csv`
 
 ### Text description
-The data in this table is not the "raw" data. It has been user and SOAR tool anonymized; SOAR tool names have been removed, as have participant user ids. Probabilistic techniques to obfuscate the data by adding noise while retaining its characteristics have been performed. To ensure utility of the anonymized data, we provide code to reproduce the Subcategory Average Correlation heatmap, found in the publication.
+The data in this table is not the "raw" data. It has been user- and SOAR-tool anonymized; SOAR tool names have been removed, as have participant user ids. Probabilistic techniques to obfuscate the data by adding noise while retaining its characteristics have been performed. To ensure utility of the anonymized data, we provide code to reproduce the Subcategory Average Correlation heatmap, found in the publication.
 
 While the SOAR tool names have been removed,  a binary indicator for if the test data per row is from a SOAR tool or from a baseline environment (full SOC tool suite but no SOAR tool).
 
