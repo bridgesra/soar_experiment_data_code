@@ -49,7 +49,8 @@ The table is simply a CSV and has the following columns/formats:
 
 ## `code/` folder
 `imputation_correlation.py` and `predict_missing_values.py` are called by `subcategory_averages_correlation.py`
-descriptions of these algorithms reside in the paper.
+
+Descriptions of all algorithms reside in the paper, along with comments at top of each script and in each function.
 
 - `subcategory_averages_correlation.py`
     - reads in the anonymized_obfuscated_data.csv,
