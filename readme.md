@@ -5,13 +5,14 @@ The experiment, data, and our results are found in our paper https://arxiv.org/a
 
 Please cite our paper when using this data or code.
 
-@article{bridges2022testing,
-  title={Testing SOAR Tools in Use},
-  author={Bridges, Robert A and Rice, Ashley E and Oesch, Sean and Nichols, Jeff A and Watson, Cory and Spakes, Kevin and Norem, Savannah and Huettel, Mike and Jewell, Brian and Weber, Brian and others},
-  journal={arXiv preprint arXiv:2208.06075},
-  year={2022}
-}
-
+```
+  @article{bridges2022testing,
+    title={Testing SOAR Tools in Use},
+    author={Bridges, Robert A and Rice, Ashley E and Oesch, Sean and Nichols, Jeff A and Watson, Cory and Spakes, Kevin and Norem, Savannah and Huettel, Mike and Jewell, Brian and Weber, Brian and others},
+    journal={arXiv preprint arXiv:2208.06075},
+    year={2022}
+  }
+```
 
 
 ## file: `anonymized_obfuscated_data.csv`
